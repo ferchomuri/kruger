@@ -1,0 +1,42 @@
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+
+label {
+  font-size: 1.5rem;
+  color: #ff9016;
+  text-align: center;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ff9016;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+input:focus-visible {
+  outline: 2px solid #ff9016;
+  border-radius: 3px;
+}
+
+.title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #ff9016;
+}
+
+.general-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 98vh;
+  background-color: #ffffff;
+  gap: 20px;
+}

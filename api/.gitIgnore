@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# TypeScript output directory
+dist/
+
+# Optional npm cache directory
+.npm/

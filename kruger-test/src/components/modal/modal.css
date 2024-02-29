@@ -1,0 +1,39 @@
+.md-button {
+  background-color: #ff9016;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: bold;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+  height: 40px;
+}
+
+.md-button:hover {
+  background-color: #ce6c04 !important;
+  color: white;
+}
+
+.md-button-inverse {
+  background-color: #ffffff;
+  border: 1px solid #ff9016;
+  color: #ff9016;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: bold;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+  height: 40px;
+}
+
+.md-button-inverse:hover {
+  border: 2px solid #ce6c04 !important;
+  color: #ce6c04 !important;
+}

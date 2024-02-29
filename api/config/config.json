@@ -1,0 +1,12 @@
+{
+  "development": {
+    "username": "sql10687390",
+    "password": "zSyXUZjtTu",
+    "database": "sql10687390",
+    "host": "sql10.freemysqlhosting.net",
+    "dialect": "mysql",
+    "define": {
+      "timestamps": false
+    }
+  }
+}

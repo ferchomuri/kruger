@@ -1,0 +1,29 @@
+.logout {
+  color: white;
+  font-size: 0.5rem;
+  cursor: pointer;
+}
+
+.container {
+  padding: 24px;
+}
+
+.search-input {
+  width: 300px;
+  margin-bottom: 24px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+  width: 75%;
+}
+
+.form-item {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  width: 100%;
+}
