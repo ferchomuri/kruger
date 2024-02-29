@@ -43,6 +43,9 @@ PLEASE USE NODE 18.13.0
 - Built with Vite
 - Utilizes React JS
 - Integrates Ant Design for UI components
+- Contain a folder with reusable components
+- Contain a folder with a generic file for conexion
+- Contain a folder with a bridges folder that it works as middleware
 
 ## Author
 

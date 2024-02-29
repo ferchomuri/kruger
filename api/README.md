@@ -31,6 +31,16 @@ To use the project, follow these instructions:
 
 The application runs on port 3000, and you can access the Swagger documentation at [http://localhost:3000/api-docs](http://localhost:3000/api-docs).
 
+The project do the following task
+
+- Imports necessary dependencies: express, cors, and dotenv.
+- Creates an instance of the Express application.
+- Enables CORS for all requests from any origin.
+- Configures middleware to parse incoming requests with JSON format.
+- Mounts an authentication router at the "/auth" route.
+- Configures Swagger.
+- Defines handlers for not-found routes and internal server errors.
+
 ## Data Model
 
 ![Data Model](./datamodel.png)
