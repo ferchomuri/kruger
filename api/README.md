@@ -1,6 +1,7 @@
 # API NODE JS+EXPRESS+SWAGGER
 
 This is a basic server built with Node.js and Express. The server includes authentication routes and implements a simple CRUD functionality.
+We don't need a connection to a local database since we are using a free online service which is very convenient for the purpose of this project.
 
 ## Table of Contents
 
