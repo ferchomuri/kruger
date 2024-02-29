@@ -3,6 +3,9 @@
 This is a basic server built with Node.js and Express. The server includes authentication routes and implements a simple CRUD functionality.
 We don't need a connection to a local database since we are using a free online service which is very convenient for the purpose of this project.
 
+**WARNING:**  
+PLEASE USE NODE 18.13.0
+
 ## Table of Contents
 
 - [Installation](#installation)

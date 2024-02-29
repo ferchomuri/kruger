@@ -2,6 +2,9 @@
 
 This is a front end created using Vite, React JS, and Ant Design. Ant Design was chosen to accelerate development. While some components were built using only CSS and HTML elements, others were implemented using Ant Design components.
 
+**WARNING:**  
+PLEASE USE NODE 18.13.0
+
 ### Admin User Credentials:
 
 - **Username:** 1714532726
