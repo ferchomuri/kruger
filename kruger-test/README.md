@@ -1,5 +1,6 @@
 # Front End ReactJS
 
+Taking into account that the client needs an MVP as soon as possible, it was decided to use a mix of reusable components made with Ant Design and HTML with CSS. This way, the first MVP was successfully implemented for the client.
 This is a front end created using Vite, React JS, and Ant Design. Ant Design was chosen to accelerate development. While some components were built using only CSS and HTML elements, others were implemented using Ant Design components.
 
 **WARNING:**  
